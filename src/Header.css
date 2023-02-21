@@ -1,0 +1,33 @@
+/* .c1{
+    border: 5px double black;
+    
+    height: 120px;
+   }
+
+/* h1{
+    padding-left: 60%;
+} */
+/* .c2{
+    text-align: center;
+    padding-top: 2%;
+}  */
+#a1 {
+    border: 1px solid black;
+    text-align: center;
+    height: 150px;
+    font-size: 70px;
+    color: rgba(79, 4, 22, 0.847);
+    background-color: lightgrey;
+    font-family: Algerian;
+    padding-top: 30px;
+  }
+.m1{
+    padding-right:10px;
+    height: 80px;
+    width: 80px;
+}
+.m2{
+    width:500px !important;
+    height:100px !important;
+    
+}

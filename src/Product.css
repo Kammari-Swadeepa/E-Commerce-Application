@@ -1,0 +1,59 @@
+.card{
+    display:inline-block;
+    border: 1px solid black;
+    margin: 2px;
+    width: 280px;
+    height: 550px;
+}
+.card-title{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.b1{
+    font-size: 25px;
+    font-family: Georgia;
+    color: rgb(255, 238, 0);
+    font-weight: bold;
+    
+}
+.r1{
+    
+    font-size: 15px;
+    font-family:Cambria;
+    font-weight: bold;
+    border: 1px solid rgb(21,153,9) ;
+    border-radius: 25px;
+    background-color: rgb(21, 153, 9);
+    width: 46px;
+}
+.card-body{
+    padding-bottom: 5%;
+}
+.d1{
+    font-size:19px;
+    font-family:Georgia;
+    font-weight:300px ;
+   
+}
+.p1{
+    font-size: 20px;
+}
+#brand{
+width: 180px;
+height:30px;
+}
+.cart1{
+    background-color: black;
+    color: white;
+    margin-left: 300px;
+}
+.searchbtn{
+    font-size: 15px;
+    font-family:cursive;
+    height:40px;
+}
+/* .cart1:hover{
+    height:40px ;
+} */
